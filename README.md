@@ -2,7 +2,7 @@
 # Casa Domótica con Arduino
 
 ## Descripción del Proyecto
-Este proyecto propone la implementación de un sistema domótico utilizando la plataforma Arduino como unidad de control principal. La automatización del hogar, también conocida como domótica, ha emergido como una solución tecnológica integral orientada a mejorar la calidad de vida dentro del entorno doméstico. Esta tecnología integra sensores, actuadores y sistemas de control que permiten monitorear y gestionar de manera remota o automática diversas funciones del hogar, como la iluminación, seguridad, ventilación, entre otros. El objetivo es optimizar la seguridad, la eficiencia energética y el confort de los habitantes del hogar. La selección de Arduino se debe a su accesibilidad, flexibilidad y a la amplia comunidad de desarrollo que permite una rápida adaptación de soluciones personalizadas. A través de este sistema, se busca no solo responder a las necesidades básicas de automatización, sino también establecer una base escalable que pueda adaptarse a futuras mejoras, integraciones o tecnologías emergentes como el Internet de las Cosas (IoT).
+Este proyecto implementa un sistema de automatización doméstica basado en Arduino. Su objetivo es mejorar la calidad de vida en el hogar, optimizando la seguridad, la eficiencia energética y el confort. Utilizando la plataforma Arduino como unidad de control principal , el sistema integra diversos sensores inteligentes para monitorear y gestionar en tiempo real funciones como la iluminación, seguridad y ventilación. Se busca ofrecer una solución accesible, flexible y escalable , capaz de adaptarse a futuras mejoras y tecnologías emergentes como el IoT.
 
 ---
 

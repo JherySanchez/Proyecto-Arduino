@@ -1,6 +1,6 @@
 CREATE DATABASE arduino;
 USE arduino;
-CREATE TABLE sensor (
+CREATE TABLE sensores (
     id INT AUTO_INCREMENT PRIMARY KEY,
     gas INT,
     luz INT,

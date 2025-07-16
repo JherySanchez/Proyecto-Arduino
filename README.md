@@ -2,17 +2,17 @@
 # Casa Domótica con Arduino
 
 ## Descripción del Proyecto
-[cite_start]Este proyecto propone la implementación de un sistema domótico utilizando la plataforma Arduino como unidad de control principal[cite: 30]. [cite_start]La automatización del hogar, también conocida como domótica, ha emergido como una solución tecnológica integral orientada a mejorar la calidad de vida dentro del entorno doméstico[cite: 28]. [cite_start]Esta tecnología integra sensores, actuadores y sistemas de control que permiten monitorear y gestionar de manera remota o automática diversas funciones del hogar, como la iluminación, seguridad, ventilación, entre otros[cite: 29]. [cite_start]El objetivo es optimizar la seguridad, la eficiencia energética y el confort de los habitantes del hogar[cite: 32]. [cite_start]La selección de Arduino se debe a su accesibilidad, flexibilidad y a la amplia comunidad de desarrollo que permite una rápida adaptación de soluciones personalizadas[cite: 31]. [cite_start]A través de este sistema, se busca no solo responder a las necesidades básicas de automatización, sino también establecer una base escalable que pueda adaptarse a futuras mejoras, integraciones o tecnologías emergentes como el Internet de las Cosas (IoT)[cite: 33].
+Este proyecto propone la implementación de un sistema domótico utilizando la plataforma Arduino como unidad de control principal. La automatización del hogar, también conocida como domótica, ha emergido como una solución tecnológica integral orientada a mejorar la calidad de vida dentro del entorno doméstico. Esta tecnología integra sensores, actuadores y sistemas de control que permiten monitorear y gestionar de manera remota o automática diversas funciones del hogar, como la iluminación, seguridad, ventilación, entre otros. El objetivo es optimizar la seguridad, la eficiencia energética y el confort de los habitantes del hogar. La selección de Arduino se debe a su accesibilidad, flexibilidad y a la amplia comunidad de desarrollo que permite una rápida adaptación de soluciones personalizadas. A través de este sistema, se busca no solo responder a las necesidades básicas de automatización, sino también establecer una base escalable que pueda adaptarse a futuras mejoras, integraciones o tecnologías emergentes como el Internet de las Cosas (IoT).
 
 ---
 
 ## Componentes Utilizados
-* [cite_start]**Arduino UNO:** Unidad de control principal[cite: 58].
-* [cite_start]**Sensor PIR:** Para detección de movimiento y presencia humana[cite: 84, 85].
-* [cite_start]**Sensor LDR:** Para medir la luz ambiental[cite: 86, 87].
-* [cite_start]**Sensor Ultrasónico:** Para medir distancia y detectar obstáculos[cite: 89, 90].
-* [cite_start]**Sensor de Humo MQ-2:** Para detectar gases inflamables y humo[cite: 92, 93].
-* [cite_start]**Sensor DHT11:** Para medir temperatura y humedad[cite: 95, 96].
+* **Arduino UNO:** Unidad de control principal.
+* **Sensor PIR:** Para detección de movimiento y presencia humana.
+* **Sensor LDR:** Para medir la luz ambiental.
+* **Sensor Ultrasónico:** Para medir distancia y detectar obstáculos.
+* **Sensor de Humo MQ-2:** Para detectar gases inflamables y humo.
+* **Sensor DHT11:** Para medir temperatura y humedad.
 
 ---
 
@@ -29,10 +29,10 @@
 ---
 
 ## Autores
-* [cite_start]Reyes Vicente, Bruno Santiago [cite: 6]
-* [cite_start]Chavez Mejia, Gianmarco Crasso [cite: 7]
-* [cite_start]Sanchez Rios, Jheremy Ayrton Sergio [cite: 8]
-* [cite_start]Vega Romero, Gerardo David [cite: 9]
-* Docente: Mg. [cite_start]Palomino Iriarte, Edwin [cite: 10, 11]
+* Reyes Vicente, Bruno Santiago
+* Chavez Mejia, Gianmarco Crasso
+* Sanchez Rios, Jheremy Ayrton Sergio
+* Vega Romero, Gerardo David
+* Docente: Mg. Palomino Iriarte, Edwin
 
 ---
